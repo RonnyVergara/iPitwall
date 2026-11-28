@@ -46,7 +46,8 @@ app). You can also use *Help → Check for Updates…*
 
 - **Editor:** layers, groups, snapping and guides, per-widget fonts, colours, gradients and effects.
 - **Layouts and boards:** keep several layouts, import and export them, and save a group of widgets
-  as a board to reuse it.
+  as a board to reuse it. Ready-made boards come with iPitWall and follow its updates without ever
+  overwriting a board you changed.
 - **Replays:** play back a telemetry file (`.ibt`) with pause, seek and speed. Files saved by iRacing
   contain only your own car, so multi-car widgets stay mostly empty with them.
 - **Fuel auto-fill:** the fuel calculator can set the fuel in your pit menu when you enter the pit
