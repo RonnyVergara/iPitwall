@@ -40,7 +40,7 @@ app). You can also use *Help → Check for Updates…*
 | Car | speed, gear, RPM, pedals, steering, fuel level and **fuel calculator**, brake bias, tires, ABS, traction control, temperatures… |
 | Timing | positions, current / last / best / predicted lap, gap to session best, time remaining, incidents |
 | Driver & team | name, team, car, country, iRating, license |
-| Session | strength of field, track, series, flags, **incident timeline**, **track map**, camera and replay controls |
+| Session | strength of field, track, series, flags, **incident timeline**, **track map** (circuit or line view), camera and replay controls |
 | Weather | air and track temperature, humidity, wind, precipitation, track state |
 | Static | your own images |
 
@@ -62,6 +62,20 @@ app). You can also use *Help → Check for Updates…*
   replays.
 - It steps aside on the screen where you are working in iPitWall, and comes back when you switch to
   the game.
+
+## Edit on screen
+
+Place your widgets without leaving the game. With iRacing in the garage, stopped in the pits or in a
+replay, press **Ctrl+E**: every widget gets a frame, right on your screens.
+
+- Drag to move, use the handles to resize and rotate, drag across screens. Guides and snapping work
+  as in the editor, which follows along live.
+- Arrows nudge (Shift ×10), `Ctrl+Z` undoes. Press **Ctrl+E** or **Esc**, or click *Done*, to finish.
+- iRacing keeps your keyboard, and OBS shows nothing of the edit mode.
+- It is **not available while the car is moving**.
+- No iRacing running? Use the *Edit on screen* button in iPitWall.
+- To change the key: *View → Keyboard shortcuts…*. iPitWall tells you if another app holds it or if
+  iRacing uses it too.
 
 ## OBS
 
